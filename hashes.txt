@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Amor que desafía la gravedad
+
+This log tracks the cryptographic history and versioning for the song **Amor que desafía la gravedad** (amor-que-desafia-la-gravedad).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T12:39:44.538678 | `v1` | `96c633e97caed7a30aa0df7bff6d79ae9faa31dd597489a796ca98affb7bb7df` | `9c597fb0f85891718a92e432caf9f4b246b7864f0411c34db527fffce043a06e` | `2026-06-15_amor-que-desafia-la-gravedad-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
