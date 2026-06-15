@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/amor-que-desafia-la-gravedad/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Amor que desafía la gravedad](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/amor-que-desafia-la-gravedad/) |
+| **Get License** | [Get a Licensing Quote for Amor que desafía la gravedad](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/amor-que-desafia-la-gravedad/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dime si esta noche nos vamo' a perder
+> Que tu mirada ya me empieza a convencer
+> Ese veneno tuyo yo lo quiero beber
+> Amor que desafía la gravedad, a mi nivel
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
